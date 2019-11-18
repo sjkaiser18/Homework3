@@ -1,0 +1,34 @@
+*{
+    padding:.2em;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  .navigation{
+      box-sizing: content-box;
+      background-color:rgb(216, 216, 216);
+      margin:1em 5em 1em 5em;
+      padding: .5em;
+      color:blue;
+  }
+
+
+
+img{
+    float:left;
+    clear :left;
+   
+}
+
+.reviewheader{
+    clear:left;
+}
+
+
+
+.badge{
+    color:blue;
+}
+
+
